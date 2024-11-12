@@ -1,4 +1,6 @@
-# 👋 Hi there! I’m Wangchuk, your friendly neighborhood AI enthusiast and cultural preservation advocate!
+ 👋 Hi there! I’m Wangchuk, 
+
+# your friendly neighborhood AI enthusiast and cultural preservation advocate!
 
 🌍 **Tibetan Roots** | 💡 **AI Innovator** | 📚 **PhD Student in Software Engineering**
 
