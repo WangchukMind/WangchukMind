@@ -1,4 +1,4 @@
- 👋 Hi there! I’m Wangchuk, 
+#                               👋 Hi there! I’m Wangchuk  
 
 # your friendly neighborhood AI enthusiast and cultural preservation advocate!
 
