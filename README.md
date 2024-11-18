@@ -1,155 +1,133 @@
-#                               👋 Hi there! I’m Wangchuk  
+<div align="center">
 
-# your friendly neighborhood AI enthusiast and cultural preservation advocate!
+# 👋 **Hi there! I’m Wangchuk**  
+
+### **"Blending AI innovation with cultural preservation!"**
 
 🌍 **Tibetan Roots** | 💡 **AI Innovator** | 📚 **PhD Student in Software Engineering**
 
----
-
-### 👨‍💻 About Me
-
-📜 **Heritage Enthusiast**: Growing up with Tibetan traditions, I'm passionate about using technology to preserve and promote our unique cultural heritage.  
-🌌 **PhD Adventure**: Focused on document restoration and language technology, aiming to bring ancient Tibetan documents to life with AI.  
-🧑‍🏫 **Aspiring Mentor**: I love teaching Python and AI, hoping to inspire the next generation of tech enthusiasts.  
-🎨 **Creative Explorer**: I enjoy exploring the intersection of technology and art, such as cultural data analysis and visual arts.
-
-### 🌱 My Philosophy
-
-“Knowledge and compassion are like two wings of a bird – together they can lift the mind to great heights.”
+![Hero Animation](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
 ---
 
-### 🛠️ Skills & Tools
+> _“Technology is a bridge, not a barrier—it connects the old and the new, the local and the global.”_  
+> _— WangchukMind_
 
-Here's a snapshot of my technical skills in various areas:
-
----
-
-#### **👓 Computer Vision**
-
-Computer vision plays a core role in document restoration, OCR, and object recognition tasks. My work involves both deep learning and classical computer vision methods.
-
-- **Stack**: OpenCV, TensorFlow, Keras, YOLO, FastAPI
-- **Project Experience**: Document image restoration, Tibetan OCR systems, object detection, and image segmentation
-- **Skill Level**: 🌟🌟🌟🌟🌟
-
-| Skill          | Tools                              |
-| -------------- | ---------------------------------- |
-| Image Processing | OpenCV, Pillow                     |
-| Object Detection | YOLO, Detectron2                  |
-| Image Classification | CNN, ResNet, MobileNet         |
-| Document Analysis | OCR (Tesseract), layout recognition |
+</div>
 
 ---
 
-#### **🤖 Deep Learning**
+## 👨‍💻 **Who is WangchukMind?**
 
-From foundational neural networks to complex generative models, deep learning is central to my research. I've applied GANs and Transformer models in various projects.
+I am **Wangchuk**, a dreamer, builder, and innovator striving to merge **artificial intelligence** with the beauty of **Tibetan culture**. Here's what defines me:
 
-- **Stack**: TensorFlow, PyTorch, Transformers, GANs
-- **Project Experience**: Tibetan document restoration, text generation, sentiment analysis
-- **Skill Level**: 🌟🌟🌟🌟
-
-| Skill          | Tools                              |
-| -------------- | ---------------------------------- |
-| Generative Models | GAN, VAE                         |
-| Sequence Modeling | RNN, LSTM, Transformers          |
-| Deep Neural Networks | TensorFlow, Keras, PyTorch   |
-| Data Augmentation | Albumentations, Keras ImageDataGenerator |
+- **🌌 PhD Journey**: Currently exploring multimodal AI and document restoration, bringing ancient Tibetan manuscripts to life.  
+- **🧑‍🏫 Teaching Enthusiast**: I love teaching Python, AI, and machine learning, inspiring the next generation of tech pioneers.  
+- **📜 Cultural Advocate**: Passionate about using technology to preserve Tibetan heritage and empower underserved communities.  
+- **🎨 Creative Explorer**: Finding beauty in the intersection of technology, culture, and art.
 
 ---
 
-#### **💻 Software Engineering**
+<div align="center">
 
-Software engineering skills include developing and maintaining efficient, scalable software. I work in collaborative environments using tools like Git and Docker, with a focus on code quality and automation.
+## 🛠️ **My Skills**
 
-- **Stack**: Git, Docker, GitHub Actions, CI/CD, Agile Development
-- **Project Experience**: Multi-team project development, Docker-based container deployment
-- **Skill Level**: 🌟🌟🌟🌟
+![Skills Animation](https://media.giphy.com/media/3o6ZsYm5sUL7v8bsWc/giphy.gif)
 
-| Skill          | Tools                              |
-| -------------- | ---------------------------------- |
-| Version Control | Git, GitHub, GitLab               |
-| Containerization | Docker, Docker Compose           |
-| Continuous Integration | GitHub Actions, Jenkins    |
-| Code Quality   | SonarQube, CodeClimate             |
+</div>
 
 ---
 
-#### **💬 Natural Language Processing (NLP)**
+### **👓 Computer Vision**
+From document restoration to object detection, I specialize in computer vision solutions tailored to unique challenges like Tibetan OCR.
 
-NLP skills enable Tibetan document analysis and understanding. I focus on processing low-resource languages, including tokenization, sentiment analysis, and machine translation.
+- **Tech Stack**: OpenCV, TensorFlow, YOLO, FastAPI  
+- **Key Projects**: Tibetan OCR systems, image restoration, and layout recognition.  
 
-- **Stack**: spaCy, Hugging Face Transformers, NLTK, BERT
-- **Project Experience**: Tibetan tokenization and sentiment analysis, machine translation
-- **Skill Level**: 🌟🌟🌟🌟
-
-| Skill          | Tools                              |
-| -------------- | ---------------------------------- |
-| Language Models | BERT, GPT, Word2Vec               |
-| Tokenization & Preprocessing | spaCy, NLTK          |
-| Machine Translation | MarianMT, Fairseq             |
-| Sentiment Analysis | TextBlob, VaderSentiment       |
+| Expertise          | Tools                              |
+| -------------------| ---------------------------------- |
+| Image Processing   | OpenCV, Pillow                     |
+| Object Detection   | YOLO, Detectron2                  |
+| Document Analysis  | LayoutLM, Tesseract               |
 
 ---
 
-#### **🌐 Web Development**
+### **🤖 Deep Learning**
+Deep learning is at the heart of my research, enabling projects like generative Tibetan text creation and sentiment analysis.
 
-Although web development is not my primary focus, I leverage front-end and back-end skills to develop interactive tools and visualizations, enhancing user experience.
+- **Tech Stack**: PyTorch, Transformers, GANs  
+- **Key Projects**: Text generation, document restoration, and multimodal embeddings.  
 
-- **Stack**: HTML, CSS, JavaScript, React, Flask, FastAPI
-- **Project Experience**: Front-end interfaces for NLP and image processing tools, visualization apps
-- **Skill Level**: 🌟🌟🌟
-
-| Skill          | Tools                              |
-| -------------- | ---------------------------------- |
-| Front-End      | HTML, CSS, JavaScript, React       |
-| Back-End       | Flask, FastAPI                     |
-| API Development | REST API, GraphQL                 |
-| Data Visualization | D3.js, Plotly                  |
+| Expertise               | Tools                              |
+| ----------------------- | ---------------------------------- |
+| Generative Models       | GAN, VAE                          |
+| Sequence Modeling       | RNN, LSTM, Transformers           |
+| Deep Neural Networks    | TensorFlow, PyTorch               |
 
 ---
 
-#### **🧩 Other Tools & Skills**
+### **💬 Natural Language Processing (NLP)**
+With a focus on **low-resource languages**, I aim to break barriers in Tibetan language processing and sentiment analysis.
 
-Additionally, I'm proficient with various tools and libraries to support diverse projects and research.
+- **Tech Stack**: Hugging Face, spaCy, BERT  
+- **Key Projects**: Tibetan tokenization, machine translation, and text summarization.  
 
-- **Tools**: Jupyter Notebook, Markdown, LaTeX, Notion
-- **Collaboration & Management**: Trello, JIRA, Slack, Notion
-- **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn
-
----
-
-### 🎨 Beyond Coding: My Passions
-
-Here are some of my hobbies and inspirations beyond programming:
-
-- 🌄 **Mountain Hiker**: Exploring the Himalayas, connecting with nature.
-- 🧘‍♂️ **Mindfulness Enthusiast**: Daily meditation and self-reflection to balance tech with peace.
-- 🎧 **Music Explorer**: From Tibetan chanting to electronic beats, music fuels my creativity.
-- 📚 **Avid Reader**: Fascinated by historical texts, science fiction, and cultural studies.
+| Expertise               | Tools                              |
+| ----------------------- | ---------------------------------- |
+| Language Models         | BERT, GPT, Word2Vec               |
+| Tokenization & Parsing  | spaCy, NLTK                       |
+| Machine Translation     | MarianMT, Fairseq                 |
 
 ---
 
-### 🔭 Vision & Goals
+### **🌐 Web Development**
+While not my primary focus, I use web development to create interactive tools and visualizations.
 
-I envision a future where technology preserves culture rather than replaces it. My dream is to develop AI-driven tools that enable cultural preservation, bridge gaps between traditional and modern knowledge, and empower communities with access to personalized learning.
+- **Tech Stack**: Flask, React, FastAPI  
+- **Key Projects**: Web interfaces for NLP tools, visualization dashboards.  
 
-🌐 **My Next Steps**:
-- Building a Tibetan OCR tool for ancient documents.
-- Creating a community for tech enthusiasts interested in cultural AI.
-- Publishing research on NLP techniques for low-resource languages.
-
----
-
-### 📬 Connect with Me
-
-Thank you for visiting my profile! Whether you’re a developer, researcher, or just someone curious about AI and culture, feel free to reach out. Let’s connect and build a future where technology amplifies cultural understanding.
-
-- [LinkedIn](https://www.linkedin.com/in/wangchukai/)
-- [Twitter](https://twitter.com/WangchukAI)
-- 📫 **Email**: contact@wangchukai.com
+| Expertise               | Tools                              |
+| ----------------------- | ---------------------------------- |
+| Front-End Development   | HTML, CSS, JavaScript, React       |
+| Back-End Development    | Flask, FastAPI                    |
+| Data Visualization      | Plotly, D3.js                     |
 
 ---
 
-**Keep exploring, stay curious!**
+## 🎨 **Beyond Code**
+
+| 🌄 **Mountain Explorer** | Hiking in the Himalayas inspires my creativity.       |
+| ------------------------ | ---------------------------------------------------- |
+| 🧘‍♂️ **Mindfulness Advocate** | Daily meditation to stay balanced and focused.         |
+| 🎧 **Music Enthusiast**  | From Tibetan chanting to electronic beats.           |
+| 📚 **Bookworm**          | Exploring sci-fi, cultural studies, and history.     |
+
+---
+
+## 🔭 **What’s Next?**
+
+🌐 My vision is simple:  
+Leverage AI to **preserve cultural heritage**, **bridge knowledge gaps**, and **empower communities**.
+
+### **Upcoming Projects**:
+1. **Tibetan OCR Toolkit**: A tool to digitize and preserve ancient manuscripts.  
+2. **NLP for Low-Resource Languages**: Research in machine translation and tokenization for Tibetan.  
+3. **Community Building**: A global hub for enthusiasts interested in AI and culture.
+
+---
+
+<div align="center">
+
+## 📬 **Let’s Connect!**
+
+If you share similar passions or want to collaborate, I’d love to hear from you!  
+
+- 🌐 **[LinkedIn](https://www.linkedin.com/in/wangchukai/)**  
+- 🐦 **[Twitter](https://twitter.com/WangchukAI)**  
+- 📫 **Email**: [contact@wangchukai.com](mailto:contact@wangchukai.com)  
+
+---
+
+### ✨ **Keep Exploring, Stay Curious, and Build the Future!**
+
+</div>
