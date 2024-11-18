@@ -123,8 +123,8 @@ Leverage AI to **preserve cultural heritage**, **bridge knowledge gaps**, and **
 If you share similar passions or want to collaborate, I’d love to hear from you!  
 
 - 🌐 **[LinkedIn](https://www.linkedin.com/in/wangchuk-tsering-476156333/)**  
-- 🐦 **[Twitter](https://twitter.com/WangchukAI)**  
-- 📫 **Email**: [contact@wangchukai.com](Wangchuk0112@Gmail.com)  
+- 🐦 **[Twitter]([Mi](https://x.com/WangchukMind)](https://x.com/WangchukMind))**  
+- 📫 **Email**:(Wangchuk0112@Gmail.com)**  
 
 ---
 
