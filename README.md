@@ -1,6 +1,6 @@
 <div align="center">  
   
-# 👋🎉 **Hi there! I’m Wangchuk**     
+# 👋🎉 **Hi there! I’m Wangchuk**      
 
 ### **"Blending AI innovation with cultural preservation!"**  
 
