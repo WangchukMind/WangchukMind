@@ -5,7 +5,7 @@
 ### **"Blending AI innovation with cultural preservation!"**  
 
 🌍 **Tibetan Roots** | 💡 **AI Innovator** | 📚 **PhD Student in Software Engineering**
-
+ 
 ![Hero Animation](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
 ---
