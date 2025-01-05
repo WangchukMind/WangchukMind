@@ -1,7 +1,7 @@
 <div align="center">   
    
 # 👋 **Hi there! I’m Wangchuk**        
-    
+     
 ### **"Blending AI innovation with cultural preservation!"**  
 
 🌍 **Tibetan Roots** | 💡 **AI Innovator** | 📚 **PhD Student in Software Engineering**
