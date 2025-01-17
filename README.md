@@ -8,7 +8,7 @@
  
 ![Hero Animation](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
  
----
+--- 
 
 > _“Technology is a bridge, not a barrier—it connects the old and the new, the local and the global.”_  
 > _— WangchukMind_
